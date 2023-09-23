@@ -8,6 +8,10 @@ The hook is basic, it could be expanded and add additional features.
 # NASA.GOV
 This project use NASA POD API    
 
+
+
+In order to run this project, you need create a api key on https://api.nasa.gov/
+After that, you need update .env file, save and run. Good luck!
     
 
 #APOD
